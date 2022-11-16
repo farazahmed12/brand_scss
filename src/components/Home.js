@@ -11,7 +11,7 @@ import vg from "../assets/2.webp";
 const Home = () => {
   return (
     <>
-      <div className="home">
+      <div className="home" id="home">
         <main>
           <h1>Brand</h1>
           <p>we Provide services for your Problems.</p>
