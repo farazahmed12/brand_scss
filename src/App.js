@@ -12,6 +12,7 @@ import "./styles/Header.scss";
 import "./styles/Home.scss";
 import "./styles/Footer.scss";
 import "./styles/Contact.scss";
+import "./styles/mediaquery.scss";
 
 function App() {
   return (
